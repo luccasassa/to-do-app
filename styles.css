@@ -39,7 +39,7 @@ button {
 
 [type="checkbox"] {
   position: absolute;
-  left: -9999px;
+  opacity: 0;
 }
 
 button,
@@ -108,6 +108,10 @@ h1 {
   text-align: center;
   padding: 5px 10px;
   margin: 10px 0;
+}
+
+.todo-list {
+  margin-top: 2rem;
 }
 
 .todo-list li {
