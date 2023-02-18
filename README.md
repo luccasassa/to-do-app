@@ -1,7 +1,3 @@
-# To-Do App
+## Author ↴
 
-Handmade To-Do App
-
-## Autor ¬
-
-[Luca Sassaroli](https://linktr.ee/luccasassa)
+<a href="https://linktr.ee/luccasassa"><img alt="Luca Sassaroli Linktr.ee" width="115px" src="https://i.imgur.com/Y9qeO1p.png" /></a>

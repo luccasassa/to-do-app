@@ -180,12 +180,3 @@ h1 {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-
-/* FOOTER */
-.page-footer {
-  max-width: 700px;
-  margin: auto;
-  text-align: center;
-  margin-top: 1.5rem;
-  color: #fff;
-}
